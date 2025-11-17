@@ -897,7 +897,7 @@
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Laptop" class="product-img">
                 <div class="product-info">
-                    <h3>MacBook Pro 14"</h3>
+                    <h3>Mathsbook Pro 14"</h3>
                     <div class="price">$1,999</div>
                     <div class="rating">★★★★☆ <span>(86)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
@@ -971,10 +971,10 @@
             </div>
             
             <div class="deal-container">
-                <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80" alt="MacBook Deal" class="deal-img">
+                <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80" alt="Mathsbook Deal" class="deal-img">
                 <div class="deal-content">
-                    <h3>MacBook Air M2</h3>
-                    <p>The incredibly thin and light MacBook Air with the powerful M2 chip.</p>
+                    <h3>Mathsbook Air M2</h3>
+                    <p>The incredibly thin and light Mathsbook Air with the powerful M2 chip.</p>
                     
                     <div class="deal-timer">
                         <div class="timer-box">
